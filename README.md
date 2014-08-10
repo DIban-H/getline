@@ -7,6 +7,6 @@ Compile it with:
 
 	gcc -o getline getline.c
 
-or:
+or simply:
 	
-	gcc -Wall -ansi -pendantic -o getline getline.c
+	make
